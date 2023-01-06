@@ -41,8 +41,8 @@
 	font-size: small;
 }
 
-.navigation a:hover {
-	background: #48bce6;
+.navigation li:hover {
+	background-color: #48bce6;
 	color: #333333;
 }
 
